@@ -29,15 +29,15 @@ export interface Inputs {
 
 export const sponsorLinks = [
   {
-    name: "GitHub Sponsor",
+    name: "GitHub Sponsors",
     icon: SiGithubsponsors,
   },
   {
-    name: "Buy me a coffee",
+    name: "Buy Me a Coffee",
     icon: SiBuymeacoffee,
   },
   {
-    name: "Kofi",
+    name: "Ko-fi",
     icon: SiKofi,
   },
   {
